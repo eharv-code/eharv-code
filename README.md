@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eharv-code
-- 👀 I’m interested in and CompTIA Sec+ certified in cybersecurity but I love me some frontend.
+- 👀 I’m interested in cybersecurity and CompTIA Sec+ certified but I love me some frontend.
 - 🌱 I’m always learning.
 - 💞️ Please feel free to check out my projects. 
 - 📫 Find me on LinkedIn. I'd love to connect.
