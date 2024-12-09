@@ -3,7 +3,6 @@
 - 🌱 I’m always learning.
 - 💞️ Please feel free to check out my projects. 
 - 📫 Find me on LinkedIn. I'd love to connect.
-- 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I can give you a fascinating story on the importance of the color blue. 
 
 <!---
