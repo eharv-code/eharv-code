@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @eharv-code
-- 👀 I’m interested in cybersecurity and CompTIA Sec+ certified but I love me some frontend.
-- 🌱 I’m always learning.
+- 👀 I’m CompTIA Sec+ certified.
 - 💞️ Please feel free to check out my projects. 
 - 📫 Find me on LinkedIn. I'd love to connect.
 - ⚡ Fun fact: I can give you a fascinating story on the importance of the color blue. 
