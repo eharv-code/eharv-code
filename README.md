@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eharv-code
-- 👀 I’m CompTIA Sec+ certified.
+- 👀 CompTIA Sec+ certified.
 - 💞️ Please feel free to check out my projects. 
-- 📫 Find me on LinkedIn. I'd love to connect.
+- 📫 Find me on LinkedIn or Medium. 
 - ⚡ Fun fact: I can give you a fascinating story on the importance of the color blue. 
 
 <!---
